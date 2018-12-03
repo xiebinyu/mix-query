@@ -1,3 +1,9 @@
+# 使用步骤
+1、引入插件plugin中的scala
+
+2、引入scala的sdk（Project Structure -> Libraries -> 添加Scala sdk）
+
+
 # mix-query
 ```
 jdbc:mysql://192.168.1.101:3306/test
